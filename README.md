@@ -1,20 +1,8 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Test Spec "spek" Specification Style Demo
+================================================
 
-Hello world from kotlin.
-
-```
-./gradlew run
-```
-
-You will see "Hello, Kotlin!" from console.
-
-Run tests:
+Use "spek" specification style to write tests.
 
 ```
-./gradlew test
+./gradlew test --info
 ```
-
-You will see test result from console.
-
-
